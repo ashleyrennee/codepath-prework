@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![CodePath-prework-rec](https://user-images.githubusercontent.com/40500769/183264588-632b5876-92a8-4728-8781-8c5f280a7191.gif)
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
