@@ -10,8 +10,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [✔] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [✔] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [✔️] Played with color,typeface, and font size
 
 ## Video Walkthrough
 
@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the challenges I faced was manipulating the input text field font size. The changes in font size was visible in the storyboard, but didn't show up in the simulator. Eventually, I found a solution I was happy with, and even picked up on additional knowledge along the way.
 
 ## License
 
